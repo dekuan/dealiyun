@@ -1,0 +1,46 @@
+{
+  "name": "dealiyun",
+  "version": "1.0.0",
+  "description": "ALL Aliyun APIs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "doctoc README.md"
+  },
+  "engines": {
+    "node": ">= 7.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dekuan/dealiyun.git"
+  },
+  "keywords": [
+    "api",
+    "aliyun",
+    "sdk",
+    "open",
+    "open-api",
+    "ecs",
+    "oss",
+    "sts",
+    "rds",
+    "cdn",
+    "drds",
+    "dns",
+    "monitor",
+    "iot",
+    "sms"
+  ],
+  "author": "Willin Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dekuan/dealiyun/issues"
+  },
+  "homepage": "https://github.com/dekuan/dealiyun#readme",
+  "devDependencies": {
+    "doctoc": "*"
+  },
+  "dependencies": {
+    "debug": "*",
+    "request": "*"
+  }
+}
